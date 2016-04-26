@@ -25,6 +25,7 @@
         <activity android:name=".profile" />
         <activity android:name=".chmovie" />
         <activity android:name=".chmusic" />
+         <activity android:name=".chmusic1" />
         <activity android:name=".chread" />
         <activity android:name=".chfood" />
         <activity
